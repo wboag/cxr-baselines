@@ -1,0 +1,7 @@
+ipython
+notebook
+numpy
+pandas
+pillow
+dicom
+matplotlib
