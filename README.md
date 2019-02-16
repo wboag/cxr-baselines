@@ -44,7 +44,7 @@ TODO: Experiments
 
     [] KNN (n=1) baseline
 
-    [] standard ngram language model
+    [x] standard ngram language model
 
     [] non-parametric conditional ngram language model
 
