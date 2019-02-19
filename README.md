@@ -40,16 +40,16 @@ TODO: Writeup
 
 TODO: Experiments
 
-    [x] visualize image/caption pairs
+    [x] Willie: visualize image/caption pairs
 
-    [] KNN (n=1) baseline
+    [] Gabi: KNN (n=1) baseline
 
-    [x] standard ngram language model
+    [x] Willie: standard ngram language model
 
-    [] non-parametric conditional ngram language model
+    [] Gabi: non-parametric conditional ngram language model
 
-    [] unconditional feedforward predict-based language model
+    [] Harry: unconditional feedforward predict-based language model
 
-    [] conditional feedforward predict-based language model
+    [] Harry: conditional feedforward predict-based language model
 
-    [] evaluation metric: CIDEr, BELU, ROUGE
+    [] Gabi: evaluation metric: CIDEr, BELU, ROUGE
