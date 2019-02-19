@@ -5,3 +5,4 @@ pandas
 pillow
 dicom
 matplotlib
+scikit-learn
