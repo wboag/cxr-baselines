@@ -6,3 +6,4 @@ pillow
 dicom
 matplotlib
 scikit-learn
+bioc

@@ -67,6 +67,6 @@ def parse_report(path):
         paragraph = mimic_re.sub(r'\s{2,}', ' ', paragraph)
         paragraph = paragraph.strip()
         
-        parsed_report[title] = paragraph
+        parsed_report[title] = paragraph.replace('\n', '\\n')
 
     return parsed_report

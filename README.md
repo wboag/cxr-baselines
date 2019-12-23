@@ -7,6 +7,17 @@ Use
 
     $ cd /scratch/wboag/2019/cxr/cxr-baselines
 
-    $ . venv_cxr/bin/activate
+    $ . venv/bin/activate
 
     $ ipython notebook --no-browser --port=8095
+    
+    
+    Overview
+    
+        build_similarities_matrix.ipynb 
+            - load the image embeddings, and create img_id -> [img_id] top-100 nearest neighbors
+            - /crimea/wboag/2019/cxr/camera_ready_top100.pkl
+            
+            
+            
+            
